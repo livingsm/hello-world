@@ -53,7 +53,7 @@ This is my schedule for next semester:
 
 \(No idea why this isn't working, I at least tried?\)
 
-Time |Class
+Time | Class
 
 ------- | --------
 
